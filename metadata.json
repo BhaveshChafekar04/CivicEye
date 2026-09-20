@@ -1,0 +1,6 @@
+{
+  "name": "CivicEye",
+  "description": "AI-powered civic intelligence platform connecting citizens and authorities for real-time problem detection, prioritization, and resolution.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
